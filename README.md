@@ -9,3 +9,7 @@ My research interests include:
 - Neural signal decoding
 - Efficient and compact deep learning models
 - Temporal representation learning
+
+## Contact
+
+- Email: [202521116012639@stu.hubu.edu.cn](mailto:202521116012639@stu.hubu.edu.cn)
